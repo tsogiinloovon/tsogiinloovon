@@ -9,7 +9,8 @@
   
 </p>
 <p align='center'>
-  <a href="#"><img src="![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tsogiinloovon&show_icons=true&theme=radical)" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=tsogiinloovon&show_icons=true&theme=radical)
+" width="350"></a>
 </p>
 
 
