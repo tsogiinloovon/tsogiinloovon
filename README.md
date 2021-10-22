@@ -32,12 +32,6 @@
 
 </p>
 
-<p align='center'>
-    <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/netlify%20-00C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white" />
-
-</p>
-
 
 - 🔭 I’m currently working on
 - 🌱 I’m currently learning ...
