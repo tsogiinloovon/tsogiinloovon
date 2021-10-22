@@ -29,19 +29,10 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=saruulbuyan-munkhtur&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=tsogiinloovon&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 
-
-
-
-<p align='center'>
-  📫 How to reach me: <a href='mailto:saruulbuyan.m@eudimized.com'>Saruulbuyan.M@eudimized.com</a>
-</p>
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/saruulbuyan-munkhtur/saruulbuyan-munkhtur"></a>
-</p>
 
 <h1> 📃 My Resume </h1>
 
@@ -74,14 +65,8 @@
 
 
 - 🔭 I’m currently working on
-     - Personal Portfolio Website
-     - MERN Travel Tracker Website
-     - A React-Native shopping app: https://github.com/Saruulbuyan-Munkhtur/gandalf-app
 - 🌱 I’m currently learning ...
      - React Native
-     - MERN Stack
-- 👯 I’m looking to collaborate on ...
-     - MERN Stack Projects
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
