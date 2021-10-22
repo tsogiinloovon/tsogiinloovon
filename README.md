@@ -8,9 +8,6 @@
   A Full Stack Developer from Ulaanbaatar, Mongolia
   
 </p>
-<p align='center'>
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-" width="350"></a>
 </p>
 
 
@@ -21,9 +18,9 @@
           
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/gatsby%20-663399.svg?&style=for-the-badge&logo=gatsby&logoColor=white" />
   <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwind%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
           
 </p>
 
