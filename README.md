@@ -5,29 +5,9 @@
 </h1>
 
 <p align='center'>
-  A Full Stack Web Developer from Ulaanbaatar, Mongolia
-</p>
-
-
-
-<p align='center'>
-  
-  <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
-  </a>&nbsp;&nbsp;-->
-  <a href="https://linkedin.com/in/saruulbuyan-munkhtur-a82257185">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/saruulbuyan_munkhtur">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://medium.com/@SaruulbuyanMunkhtur">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-
+  A Full Stack Developer from Ulaanbaatar, Mongolia
   
 </p>
-
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=tsogiinloovon&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
@@ -66,8 +46,8 @@
 
 - 🔭 I’m currently working on
 - 🌱 I’m currently learning ...
-     - React Native
-
+     - React
+     - Express.js
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
