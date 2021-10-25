@@ -21,10 +21,11 @@
 
 
 
- <h4>🔭  I’m currently working with ...</h4>
-  <h5>Front-end</h5>
+ 
   
 <p align='center'>
+  <h4>🔭  I’m currently working with ...</h4>
+  <h5>Front-end</h5>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
