@@ -21,26 +21,25 @@
 
 
 
-
-<p align='center'>
-  <h4>🔭  I’m currently working with ...</h4>
+ <h4>🔭  I’m currently working with ...</h4>
   <h5>Front-end</h5>
+<p align='center'>
+ 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-
+<h5>Back-end</h5>
 <p align='center'>
-  <h5>Back-end</h5>
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp;&nbsp;
 </p>
 
 
-
-<p align='center'>
   <h5>Experienced In</h5>
+<p align='center'>
+
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;
