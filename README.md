@@ -49,7 +49,6 @@
 
 
 - 🔭 I’m currently working on
-     - MERN Travel Tracker Website
      - Personal Development
 - 🌱 I’m currently learning ...
      - NextJS 
