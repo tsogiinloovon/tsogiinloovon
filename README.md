@@ -51,7 +51,6 @@
 - 🔭 I’m currently working on
      - Personal Development
 - 🌱 I’m currently learning ...
-     - NextJS 
      - MERN Stack
 - 👯 I’m looking to collaborate on ...
      - MERN Stack Projects
