@@ -45,6 +45,7 @@
 </p>
 
 
+Full stack developer with over 3 years of successful experience in C#, and javascript. Willingness to take on added responsibilities to meet team goals. Technically proficient and analytical problem solver with calm and focused demeanor.
 
 - 🔭 I’m currently working on
      - Unreal engine with c++
