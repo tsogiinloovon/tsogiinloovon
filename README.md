@@ -48,11 +48,13 @@
 Full stack developer with over 3 years of successful experience in C#, and javascript. Willingness to take on added responsibilities to meet team goals. Technically proficient and analytical problem solver with calm and focused demeanor.
 
 2019. Jan – 2021. Sep DatacareLLC(Full Time - Paid)
+<p align='center'>
   ● Lead large full stack projects in a scrum team to develop and improve the presence in Retail ERP.
   ● Developed up to 2 applications projects per year.
   ● Participated in Ecommerce , Retail ERP and POS systems.
   ● Designed manuals for the POS system used in Emart Mongolia.
   ● Trained and mentored other 4 junior programmers and developers.
+ </p>
 
 2018. June – 2018. Sep OCURUS(Internship)
   ● Worked with Unity 3D to design and build the game , Conquest of 8 Aimakh, for IOS and Android.
