@@ -47,4 +47,6 @@
 
 
 - 🔭 I’m currently working on
-     - Personal Development
+     - Unreal engine with c++
+     - Problem solving skills
+     - Digital twin technology 
