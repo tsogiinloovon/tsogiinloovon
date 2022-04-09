@@ -58,8 +58,8 @@ Full stack developer with over 3 years of successful experience in C#, and javas
 2018. June – 2018. Sep OCURUS(Internship)
   - Worked with Unity 3D to design and build the game , Conquest of 8 Aimakh, for IOS and Android.
   - Programmed systems in the ORCURUS platform.
-
-🔭 I’m currently working on
+  
+-🔭 I’m currently working on
      - Unreal engine with c++
      - Problem solving skills
      - Digital twin technology 
