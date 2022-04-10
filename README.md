@@ -45,7 +45,7 @@
 </p>
 
 
-Full stack developer with over 3 years of successful experience in C#, and javascript. Willingness to take on added responsibilities to meet team goals. Technically proficient and analytical problem solver with calm and focused demeanor.
+Software engineer with over 3 years of successful experience in C#, and javascript. Willingness to take on added responsibilities to meet team goals. Technically proficient and analytical problem solver with calm and focused demeanor.
 
 2019. Jan – 2021. Sep DatacareLLC(Full Time - Paid)
   - Lead large full stack projects in a scrum team to develop and improve the presence in Retail ERP.
