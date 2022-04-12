@@ -48,11 +48,9 @@
 Software engineer with over 3 years of successful experience in C#, and javascript. Willingness to take on added responsibilities to meet team goals. Technically proficient and analytical problem solver with calm and focused demeanor.
 
 2019. Jan – 2021. Sep DatacareLLC(Full Time - Paid)
-  -Lead large full-stack projects in a scrum team to develop and improve the presence in Retail ERP.
-  -Created application services, with redundant services mirrored on Oracle and Windows servers, using Java and MS SQL database with C#.NET. Developed web services        using  Oracle Database, additionally utilizing Servlets, C#.NET web servers, and MS SQL on IIS. 
-  -Participated in Ecommerce, Retail ERP, and POS systems.
-  -Designed manuals for the POS system used in Emart Mongolia.
-  -Trained and mentored other 4 junior programmers and developers
+  Lead large full-stack projects in a scrum team to develop and improve the presence in Retail ERP.
+  Created application services, with redundant services mirrored on Oracle and Windows servers, using Java and MS SQL database with C#.NET. Developed web services       using  Oracle Database, additionally utilizing Servlets, C#.NET web servers, and MS SQL on IIS. Participated in Ecommerce, Retail ERP, and POS systems.
+  Designed manuals for the POS system used in Emart Mongolia.Trained and mentored other 4 junior programmers and developers
  
 
 2018. June – 2018. Sep OCURUS(Internship)
