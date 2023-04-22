@@ -1,15 +1,3 @@
-
-## How many stalkers I have
- 
-<img src="https://gpvc.arturio.dev/yangshun" alt="Profile views"/>
-
-## Live and breathe GitHub 
-
-[![Yangshun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangshun&show_icons=true&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
-
-## LeetCode for lyfe! ([profile](https://leetcode.com/yangshun))
-[![Yangshun's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=yangshun)](https://github.com/KnlnKS/leetcode-stats)
-
 <h1 align='center'>
   Hi there 👋 I'm Tsogoo 👨‍💻
 </h1>
@@ -21,6 +9,13 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=tsogiinloovon&show_icons=true&count_private=true&theme=radical" width="350"></a>
 </p>
+
+## How many stalkers I have 
+<img src="https://gpvc.arturio.dev/tsogiinloovon" alt="Profile views"/>
+
+## LeetCode for lyfe! ([profile](https://leetcode.com/mortesla1997))
+[![Tobi's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=mortesla1997)](https://github.com/KnlnKS/leetcode-stats)
+
 
 <p align='center'>
   <a href="https://twitter.com/tsogiinloovon/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
