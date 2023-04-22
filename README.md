@@ -32,20 +32,18 @@
 </p>
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />&nbsp;&nbsp;
 </p>
 <p align='center'>
   <img src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
+
 </p>
 
 
-Software engineer with over 3 years of experience. Willingness to take on added responsibilities to meet team goals. Technically proficient and analytical problem solver with calm and focused demeanor. I’m interested in getting into game development.
+Software engineer with over 5 years of experience. Willingness to take on added responsibilities to meet team goals. Technically proficient and analytical problem solver with calm and focused demeanor. I’m interested in getting into game development.
 
 2022. Jun  DataBank (Full Time - Paid)  
   - Lead forent-end project with Angular CLI in a scrum team to develop and improve the presence in finance system, Baaz3.0 .
