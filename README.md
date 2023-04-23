@@ -10,12 +10,6 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=tsogiinloovon&show_icons=true&count_private=true&theme=radical" width="350"></a>
 </p>
 
-## How many stalkers I have 
-<img src="https://gpvc.arturio.dev/tsogiinloovon" alt="Profile views"/>
-
-## LeetCode for lyfe! ([profile](https://leetcode.com/mortesla1997))
-[![Tobi's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=mortesla1997)](https://github.com/KnlnKS/leetcode-stats)
-
 
 <p align='center'>
   <a href="https://twitter.com/tsogiinloovon/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,6 +20,13 @@
   </a>&nbsp;&nbsp;
 
 </p>
+
+
+## How many stalkers I have 
+<img src="https://gpvc.arturio.dev/tsogiinloovon" alt="Profile views"/>
+
+## LeetCode for lyfe! ([profile](https://leetcode.com/mortesla1997))
+[![Tobi's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=mortesla1997)](https://github.com/KnlnKS/leetcode-stats)
 
 
 
