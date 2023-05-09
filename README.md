@@ -53,7 +53,7 @@
 Software engineer with over 5 years of experience. Willingness to take on added responsibilities to meet team goals. Technically proficient and analytical problem solver with calm and focused demeanor. I’m interested in getting into game development.
 
 2022. Jun  DataBank (Full Time - Paid)  
-  - Lead forent-end project with Angular CLI in a scrum team to develop and improve the presence in finance system, Baaz3.0 .
+  - Lead front-end project with Angular CLI in a scrum team to develop and improve the presence in finance system, Baaz3.0 .
 
 2019. Jan – 2021. Sep DatacareLLC(Full Time - Paid)
   - Lead large full-stack projects in a scrum team to develop and improve the presence in Retail ERP.
