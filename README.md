@@ -50,24 +50,53 @@
 </p>
 
 
-Software engineer with over 5 years of experience. Willingness to take on added responsibilities to meet team goals. Technically proficient and analytical problem solver with calm and focused demeanor. I’m interested in getting into game development.
+[Tsogiinloovon]
+[Contact Information: 90109921, mortesla1997@gmail.com, https://www.linkedin.com/in/johan-albert-8bb465286/]
 
-2022. Jun  DataBank (Full Time - Paid)  
-  - Lead front-end project with Angular CLI in a scrum team to develop and improve the presence in finance system, Baaz3.0 .
+Software engineer with over 5 years of experience seeking a challenging role in game development. Proven track record of leading projects, technical proficiency, and a strong analytical mindset. Eager to contribute expertise and take on additional responsibilities to drive team success.
 
-2019. Jan – 2021. Sep DatacareLLC(Full Time - Paid)
-  - Lead large full-stack projects in a scrum team to develop and improve the presence in Retail ERP.
-  Created application services, with redundant services mirrored on Oracle and Windows servers, using Java and MS SQL database with C#.NET. Developed web services       using  Oracle Database, additionally utilizing Servlets, C#.NET web servers, and MS SQL on IIS. 
-  - Participated in Ecommerce, Retail ERP, and POS systems.
-  - Designed manuals for the POS system used in Emart Mongolia.
-  - Trained and mentored other 4 junior programmers and developers
- 
+Experience:
+2022. Jun – Present: DataBank (Full Time - Paid)
+- Led front-end project using Angular CLI in a scrum team to enhance the finance system, Baaz3.0, resulting in improved system presence and functionality.
 
-2018. June – 2018. Sep OCURUS(Internship)
-  - Worked with Unity 3D to design and build the game , Conquest of 8 Aimakh, for IOS and Android.
-  - Programmed systems in the ORCURUS platform.
- 
-🔭 I’m currently working on
-  - Unreal engine with c++
-  - Problem solving skills
-  - Digital twin technology 
+2019. Jan – 2021. Sep: Datacare LLC (Full Time - Paid)
+- Led large-scale full-stack projects within a scrum team to enhance the Retail ERP system.
+- Developed application services, employing Java and MS SQL database with C#.NET for redundant services on Oracle and Windows servers.
+- Created web services utilizing Oracle Database, Servlets, C#.NET web servers, and MS SQL on IIS.
+- Played pivotal role in Ecommerce, Retail ERP, and POS systems.
+- Authored manuals for POS system deployment in Emart Mongolia.
+- Mentored and trained 4 junior programmers and developers.
+
+2018. June – 2018. Sep: OCURUS (Internship)
+- Designed and developed the game "Conquest of 8 Aimakh" for iOS and Android using Unity 3D.
+- Programmed systems for the ORCURUS platform.
+
+Skills:
+- Programming: C++, Java, C#.NET
+- Web Development: Angular, Servlets, HTML, CSS, JavaScript
+- Database: MS SQL, Oracle
+- Game Development: Unity, Unreal Engine
+- Problem Solving: Strong analytical and critical thinking abilities
+- Leadership: Proven experience leading cross-functional teams
+- Training and Mentoring: Successfully guided junior team members
+- Digital Twin Technology
+
+Education:
+[Information technology, Bachelor]
+[National University of Mongolia]
+[2019]
+
+Projects:
+- "Conquest of 8 Aimakh": Designed and developed a mobile game using Unity 3D for iOS and Android platforms.
+- "Baaz3.0 Finance System": Led the enhancement of the system's front-end using Angular CLI.
+
+Languages:
+Fluent in [English]
+
+Interests:
+- Game development
+- Problem solving
+- Learning new technologies
+
+References:
+Available upon request.
