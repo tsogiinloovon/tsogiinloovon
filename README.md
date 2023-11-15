@@ -22,9 +22,6 @@
 </p>
 
 
-## How many stalkers I have 
-<img src="https://gpvc.arturio.dev/tsogiinloovon" alt="Profile views"/>
-
 ## LeetCode for lyfe! ([profile](https://leetcode.com/mortesla1997))
 [![Tobi's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=mortesla1997)](https://github.com/KnlnKS/leetcode-stats)
 
