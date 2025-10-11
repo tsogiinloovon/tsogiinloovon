@@ -48,15 +48,15 @@
 
 
 [Tsogiinloovon]
-[Contact Information: 90109921, mortesla1997@gmail.com, https://www.linkedin.com/in/johan-albert-8bb465286/]
+[Contact Information: 90109921, mortesla1997@gmail.com
 
-Software engineer with over 5 years of experience seeking a challenging role in game development. Proven track record of leading projects, technical proficiency, and a strong analytical mindset. Eager to contribute expertise and take on additional responsibilities to drive team success.
+Software engineer with over 7 years of experience seeking a challenging role in game development. Proven track record of leading projects, technical proficiency, and a strong analytical mindset. Eager to contribute expertise and take on additional responsibilities to drive team success.
 
 Experience:
 2022. Jun – Present: DataBank (Full Time - Paid)
 - Led front-end project using Angular CLI in a scrum team to enhance the finance system, Baaz3.0, resulting in improved system presence and functionality.
 
-2019. Jan – 2021. Sep: Datacare LLC (Full Time - Paid)
+2019. Jan – 2025. Sep: Datacare LLC (Full Time - Paid)
 - Led large-scale full-stack projects within a scrum team to enhance the Retail ERP system.
 - Developed application services, employing Java and MS SQL database with C#.NET for redundant services on Oracle and Windows servers.
 - Created web services utilizing Oracle Database, Servlets, C#.NET web servers, and MS SQL on IIS.
