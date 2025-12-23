@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Tobi 👨‍💻
 
-A Full Stack Developer from Ulaanbaatar, Mongolia
+A Over Stack Developer from Ulaanbaatar, Mongolia
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=tsogiinloovon&show_icons=true&count_private=true&theme=radical" width="350"></a>
@@ -87,7 +87,11 @@ National University of Mongolia, 2019
 
 - **"Conquest of 8 Aimakh"**: Designed and developed a mobile game using Unity 3D for iOS and Android platforms.
 - **"Baaz3.0 Finance System"**: Led the enhancement of the system's front-end using Angular CLI.
-
+- **"Urto2.0"**: Led, designed, and developed Urto2.0.
+- **"Emart Mongolia"**: Designed and developed Emart Mongolia using React Native.
+- **"Emart Delivery"**: Designed and developed Emart Delivery using Flutter.
+- **"Emart POS System"**: Designed and developed Emart POS System using .NET.
+  
 ## Languages
 
 Fluent in **English**
@@ -97,6 +101,8 @@ Fluent in **English**
 - Game development
 - Problem solving
 - Learning new technologies
+- Mathematics
+- Physics
 
 ## References
 
