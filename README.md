@@ -49,7 +49,7 @@ A Over Stack Developer from Ulaanbaatar, Mongolia
 - Created web services utilizing Oracle Database, Servlets, C#.NET web servers, and MS SQL on IIS.
 - Played a pivotal role in Ecommerce, Retail ERP, and POS systems.
 - Authored manuals for POS system deployment in Emart Mongolia.
-- Mentored and trained 4 junior programmers and developers.
+- Mentored and trained over 20 junior programmers and developers.
 - Implemented Kubernetes for container orchestration and GitHub CI/CD for automated deployment pipelines.
 - Contributed to the development and integration of Next.js, React Native, and Flutter for mobile applications.
 
