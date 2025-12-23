@@ -38,7 +38,7 @@ A Full Stack Developer from Ulaanbaatar, Mongolia
 
 ## Experience
 
-### 2022. Jun – Present: DataBank (Full Time - Paid)
+### 2022. Jun – 2023: DataBank (Full Time - Paid)
 - Led the front-end project using Angular CLI in a scrum team to enhance the finance system, Baaz3.0, resulting in improved system presence and functionality.
 
 ### 2019. Jan – 2025. Sep: Datacare LLC (Full Time - Paid)
